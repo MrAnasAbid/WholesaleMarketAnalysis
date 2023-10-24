@@ -36,3 +36,11 @@ Our analysis revealed the following insights:
 
 ## Conclusion
 Our sales analysis dashboard provides valuable insights into product line performance, regional sales, profitability, and the role of customer status. These findings can inform strategic decisions and marketing efforts.
+
+## Data Source
+- **Kaggle**: https://www.kaggle.com/datasets/gabrielsantello/wholesale-and-retail-orders-dataset
+
+## Contributors
+- Anas Abid
+- Othmane El Khayati
+- Saad Darid
