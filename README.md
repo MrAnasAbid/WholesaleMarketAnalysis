@@ -1,4 +1,5 @@
 # Sales Analysis Dashboard Project
+![Global Dashboard](https://github.com/MrAnasAbid/WholesaleMarketAnalysis/assets/115592120/cc340513-5f87-42f0-a594-d799819574f4)
 
 ## Objectives
 In this project, our key objectives were to:
@@ -30,6 +31,8 @@ Our analysis revealed the following insights:
 4. **Customer Status Impact**:
    - Platinum clients, despite their limited numbers, do not generate significantly higher average revenue compared to Gold and Silver clients.
    - Interestingly, Platinum clients occasionally incur costs higher than revenue, indicating that the "Platinum" status may serve other purposes, such as brand image.
+![PlatinumSales](https://github.com/MrAnasAbid/WholesaleMarketAnalysis/assets/115592120/8ee9e82f-22fe-4434-b4bd-35187fedff26)
+
 
 ## Conclusion
 Our sales analysis dashboard provides valuable insights into product line performance, regional sales, profitability, and the role of customer status. These findings can inform strategic decisions and marketing efforts.
